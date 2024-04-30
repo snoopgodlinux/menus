@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=
+Exec=xdg-open http://hackthebox.com
+Icon=/usr/share/icons/snoopgod/hackthebox.png
+Name=HackTheBox
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

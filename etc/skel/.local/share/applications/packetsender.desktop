@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=Network;
+Comment=
+Exec=/usr/bin/packetsender
+Icon=packetsender
+Keywords=Network;traffic;TCP;UDP;SSL;packet;injection;IPv4;IPv6;simulation;
+Name=Packet Sender
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

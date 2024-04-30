@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Application;Network;Security;
+Comment=
+Exec=pkexec /usr/bin/zenmap %F
+GenericName=
+Icon=/usr/share/zenmap/pixmaps/zenmap.png
+Keywords=network;scan;scanner;IP;security;
+Name=Zenmap - Root
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+TryExec=pkexec
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
