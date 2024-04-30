@@ -22,7 +22,7 @@ function copyconfig()
 {
 	# Create Skeleton config folder if not exists
 	mkdir -p /etc/skel/.config
-	cp -r /tmp/snoopgod/menus/.config/menus /etc/skel/.config/
+	cp -r /tmp/snoopgod/menus/etc/skel/.config/menus /etc/skel/.config/
 }
 
 ## Copy local folder
@@ -31,7 +31,7 @@ function copylocal()
 {
 	# Create Skeleton local folder if not exists
 	mkdir -p /etc/skel/.local
-	cp -r /tmp/snoopgod/menus/.local/share /etc/skel/.local/
+	cp -r /tmp/snoopgod/menus/etc/skel/.local/share /etc/skel/.local/
 }
 
 ## -------------- ##
