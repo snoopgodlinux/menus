@@ -319,6 +319,7 @@
             <Filename>snoopgod-rtmerge.desktop</Filename>
             <Filename>snoopgod-rtsort.desktop</Filename>
             <Filename>snoopgod-rcrack.desktop</Filename>
+            <Filename>snoopgod-torbridge.desktop</Filename>
         </Exclude>
         <Layout/>
     </Menu>
@@ -733,6 +734,7 @@
             <Filename>snoopgod-polenum.desktop</Filename>
             <Filename>snoopgod-ridenum.desktop</Filename>
             <Filename>snoopgod-subbrute.desktop</Filename>
+            <Filename>snoopgod-torbridge.desktop</Filename>
             <Filename>snoopgod-webtrace.desktop</Filename>
         </Layout>
         <Directory>Scripts &amp; Utilities.directory</Directory>
@@ -742,6 +744,7 @@
             <Filename>snoopgod-polenum.desktop</Filename>
             <Filename>snoopgod-ridenum.desktop</Filename>
             <Filename>snoopgod-subbrute.desktop</Filename>
+            <Filename>snoopgod-torbridge.desktop</Filename>
             <Filename>snoopgod-webtrace.desktop</Filename>
         </Include>
     </Menu>
@@ -1035,6 +1038,7 @@
             <Merge type="files"/>
             <Filename>hackthebox.desktop</Filename>
             <Filename>hackthissite.desktop</Filename>
+            <Filename>neoslab.desktop</Filename>
             <Filename>tryhackme.desktop</Filename>
             <Filename>snoopgod.desktop</Filename>
         </Layout>
@@ -1042,6 +1046,7 @@
         <Include>
             <Filename>hackthebox.desktop</Filename>
             <Filename>hackthissite.desktop</Filename>
+            <Filename>neoslab.desktop</Filename>
             <Filename>tryhackme.desktop</Filename>
             <Filename>snoopgod.desktop</Filename>
         </Include>

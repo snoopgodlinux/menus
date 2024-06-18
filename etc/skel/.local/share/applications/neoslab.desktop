@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=
+Exec=xdg-open https://neoslab.com
+Icon=/usr/share/icons/snoopgod/neoslab.png
+Name=NeosLab
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
