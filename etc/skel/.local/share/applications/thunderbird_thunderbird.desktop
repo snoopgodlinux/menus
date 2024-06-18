@@ -14,7 +14,7 @@ Categories=Application;Network;Email;
 Comment=
 Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/thunderbird_thunderbird.desktop /snap/bin/thunderbird %u
 GenericName=
-Icon=/snap/thunderbird/470/meta/gui/thunderbird.png
+Icon=/usr/share/icons/snoopgod/thunderbird.png
 Keywords=Email;E-mail;Newsgroup;Feed;RSS
 MimeType=x-scheme-handler/mailto;application/x-xpinstall;x-scheme-handler/webcal;x-scheme-handler/mid;message/rfc822;text/calendar;text/vcard;text/x-vcard;
 Name=Thunderbird Mail

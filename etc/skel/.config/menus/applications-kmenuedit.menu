@@ -588,7 +588,6 @@
             <Filename>fwbuilder.desktop</Filename>
             <Filename>org.kde.kdeconnect.app.desktop</Filename>
             <Filename>org.kde.kdeconnect.sms.desktop</Filename>
-            <Filename>protonvpn-app.desktop</Filename>
             <Filename>thunderbird_thunderbird.desktop</Filename>
             <Separator/>
             <Merge type="menus"/>
@@ -1037,7 +1036,6 @@
             <Filename>hackthebox.desktop</Filename>
             <Filename>hackthissite.desktop</Filename>
             <Filename>tryhackme.desktop</Filename>
-            <Filename>protonvpn.desktop</Filename>
             <Filename>snoopgod.desktop</Filename>
         </Layout>
         <Directory>Useful Resources.directory</Directory>
@@ -1046,7 +1044,6 @@
             <Filename>hackthissite.desktop</Filename>
             <Filename>tryhackme.desktop</Filename>
             <Filename>snoopgod.desktop</Filename>
-            <Filename>protonvpn.desktop</Filename>
         </Include>
     </Menu>
 </Menu>
