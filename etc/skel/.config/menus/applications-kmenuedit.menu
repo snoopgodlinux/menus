@@ -186,6 +186,7 @@
             <Filename>gnmap.desktop</Filename>
             <Filename>gobuster.desktop</Filename>
             <Filename>goldeneye.desktop</Filename>
+            <Filename>gophish.desktop</Filename>
             <Filename>gpp-decrypt.desktop</Filename>
             <Filename>gtkhash.desktop</Filename>
             <Filename>guymager.desktop</Filename>
@@ -235,6 +236,7 @@
             <Filename>ncrack.desktop</Filename>
             <Filename>netcat.desktop</Filename>
             <Filename>netdiscover.desktop</Filename>
+            <Filename>netexec.desktop</Filename>
             <Filename>netmask.desktop</Filename>
             <Filename>netsed.desktop</Filename>
             <Filename>nikto.desktop</Filename>
@@ -242,6 +244,7 @@
             <Filename>nmap.desktop</Filename>
             <Filename>nmapsi4-admin.desktop</Filename>
             <Filename>nmapsi4-user.desktop</Filename>
+            <Filename>nuclei.desktop</Filename>
             <Filename>o-saft.desktop</Filename>
             <Filename>onesixtyone.desktop</Filename>
             <Filename>openocd.desktop</Filename>
@@ -295,6 +298,7 @@
             <Filename>sslsplit.desktop</Filename>
             <Filename>steghide.desktop</Filename>
             <Filename>subbrute.desktop</Filename>
+            <Filename>subfinder.desktop</Filename>
             <Filename>sublist3r.desktop</Filename>
             <Filename>sucrack.desktop</Filename>
             <Filename>t50.desktop</Filename>
@@ -303,6 +307,7 @@
             <Filename>tnscmd10g.desktop</Filename>
             <Filename>torbridge.desktop</Filename>
             <Filename>traceroute.desktop</Filename>
+            <Filename>trufflehog.desktop</Filename>
             <Filename>udpflood.desktop</Filename>
             <Filename>unix-privesc.desktop</Filename>
             <Filename>valgrind.desktop</Filename>
@@ -337,6 +342,7 @@
             <Filename>cge.desktop</Filename>
             <Filename>exe2hex.desktop</Filename>
             <Filename>exploitdb.desktop</Filename>
+            <Filename>gophish.desktop</Filename>
             <Filename>jexboss.desktop</Filename>
             <Filename>libenom.desktop</Filename>
             <Filename>metasploit.desktop</Filename>
@@ -358,6 +364,7 @@
             <Filename>cge.desktop</Filename>
             <Filename>exe2hex.desktop</Filename>
             <Filename>exploitdb.desktop</Filename>
+            <Filename>gophish.desktop</Filename>
             <Filename>jexboss.desktop</Filename>
             <Filename>libenom.desktop</Filename>
             <Filename>metasploit.desktop</Filename>
@@ -539,7 +546,9 @@
             <Filename>sntop.desktop</Filename>
             <Filename>sslsplit.desktop</Filename>
             <Filename>sublist3r.desktop</Filename>
+            <Filename>subfinder.desktop</Filename>
             <Filename>traceroute.desktop</Filename>
+            <Filename>trufflehog.desktop</Filename>
             <Filename>whois.desktop</Filename>
             <Filename>zenmap-root.desktop</Filename>
             <Filename>zenmap.desktop</Filename>
@@ -577,8 +586,10 @@
             <Filename>smtp-user-enum.desktop</Filename>
             <Filename>sntop.desktop</Filename>
             <Filename>sslsplit.desktop</Filename>
+            <Filename>subfinder.desktop</Filename>
             <Filename>sublist3r.desktop</Filename>
             <Filename>traceroute.desktop</Filename>
+            <Filename>trufflehog.desktop</Filename>
             <Filename>whois.desktop</Filename>
             <Filename>zenmap-root.desktop</Filename>
             <Filename>zenmap.desktop</Filename>
@@ -627,6 +638,7 @@
             <Filename>nbtscan.desktop</Filename>
             <Filename>netcat.desktop</Filename>
             <Filename>netdiscover.desktop</Filename>
+            <Filename>netexec.desktop</Filename>
             <Filename>netmask.desktop</Filename>
             <Filename>netsed.desktop</Filename>
             <Filename>nishang.desktop</Filename>
@@ -661,6 +673,7 @@
             <Filename>nbtscan.desktop</Filename>
             <Filename>netcat.desktop</Filename>
             <Filename>netdiscover.desktop</Filename>
+            <Filename>netexec.desktop</Filename>
             <Filename>netmask.desktop</Filename>
             <Filename>netsed.desktop</Filename>
             <Filename>nishang.desktop</Filename>
@@ -800,6 +813,7 @@
             <Filename>bed.desktop</Filename>
             <Filename>doona.desktop</Filename>
             <Filename>jsql-injection.desktop</Filename>
+            <Filename>nuclei.desktop</Filename>
             <Filename>pocsuite.desktop</Filename>
             <Filename>sfuzz.desktop</Filename>
             <Filename>sidguesser.desktop</Filename>
@@ -815,6 +829,7 @@
             <Filename>bed.desktop</Filename>
             <Filename>doona.desktop</Filename>
             <Filename>jsql-injection.desktop</Filename>
+            <Filename>nuclei.desktop</Filename>
             <Filename>pocsuite.desktop</Filename>
             <Filename>sfuzz.desktop</Filename>
             <Filename>sidguesser.desktop</Filename>
