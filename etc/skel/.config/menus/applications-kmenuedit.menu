@@ -239,6 +239,7 @@
             <Filename>netexec.desktop</Filename>
             <Filename>netmask.desktop</Filename>
             <Filename>netsed.desktop</Filename>
+            <Filename>ngrok.desktop</Filename>
             <Filename>nikto.desktop</Filename>
             <Filename>nishang.desktop</Filename>
             <Filename>nmap.desktop</Filename>
@@ -262,6 +263,7 @@
             <Filename>pnscan.desktop</Filename>
             <Filename>pocsuite.desktop</Filename>
             <Filename>polenum.desktop</Filename>
+            <Filename>portmapper.desktop</Filename>
             <Filename>powersploit.desktop</Filename>
             <Filename>princeprocessor.desktop</Filename>
             <Filename>proxychains.desktop</Filename>
@@ -601,7 +603,12 @@
             <Filename>zenmap-root.desktop</Filename>
             <Filename>zenmap.desktop</Filename>
             <Filename>packetsender.desktop</Filename>
+            <Filename>snoopgod-torbrowser.desktop</Filename>
         </Exclude>
+        <Menu>
+            <Name>Terminal</Name>
+            <Deleted/>
+        </Menu>
         <Layout>
             <Merge type="files"/>
             <Filename>firefox_firefox.desktop</Filename>
@@ -614,10 +621,6 @@
             <Merge type="menus"/>
             <Menuname>More</Menuname>
         </Layout>
-        <Menu>
-            <Name>Terminal</Name>
-            <Deleted/>
-        </Menu>
     </Menu>
     <Menu>
         <Name>Networking</Name>
@@ -754,7 +757,9 @@
             <Filename>chkrootkit.desktop</Filename>
             <Filename>dracnmap.desktop</Filename>
             <Filename>macchanger.desktop</Filename>
+            <Filename>ngrok.desktop</Filename>
             <Filename>polenum.desktop</Filename>
+            <Filename>portmapper.desktop</Filename>
             <Filename>ridenum.desktop</Filename>
             <Filename>subbrute.desktop</Filename>
             <Filename>torbridge.desktop</Filename>
@@ -765,7 +770,9 @@
             <Filename>chkrootkit.desktop</Filename>
             <Filename>dracnmap.desktop</Filename>
             <Filename>macchanger.desktop</Filename>
+            <Filename>ngrok.desktop</Filename>
             <Filename>polenum.desktop</Filename>
+            <Filename>portmapper.desktop</Filename>
             <Filename>ridenum.desktop</Filename>
             <Filename>subbrute.desktop</Filename>
             <Filename>torbridge.desktop</Filename>
@@ -1026,6 +1033,7 @@
             <Filename>org.kde.kate.desktop</Filename>
             <Filename>sqlitebrowser.desktop</Filename>
             <Filename>terminator.desktop</Filename>
+            <Filename>snoopgod-torbrowser.desktop</Filename>
         </Include>
     </Menu>
     <Layout>
