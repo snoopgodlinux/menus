@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=KDE;Qt;System;
+Comment=
+Exec=ubiquity kde_ui
+Icon=ubiquity-kde
+Keywords=ubiquity;
+Name=Install SnoopGod 24.04.2 LTS
+NoDisplay=false
+OnlyShowIn=KDE;
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-Ubuntu-Gettext-Domain=ubiquity-desktop

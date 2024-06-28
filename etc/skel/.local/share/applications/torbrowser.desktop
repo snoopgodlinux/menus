@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Network;WebBrowser;Security;
-Comment=
+Comment=Tor Browser is +1 for privacy and −1 for mass surveillance
 Exec=sh -c '$HOME/.torbrowser/Browser/start-tor-browser --detach || ([ ! -x $HOME/.torbrowser/Browser/start-tor-browser ] && $HOME/.torbrowser/Browser/start-tor-browser --detach)' dummy %k
 GenericName=
 Icon=/usr/share/icons/snoopgod/torbrowser.png
