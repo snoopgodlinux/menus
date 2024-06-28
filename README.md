@@ -1,6 +1,6 @@
 ## Menus
 
-Official `menus` repository of SnoopGod Linux operating system
+Official `menus` repository of [SnoopGod](https://snoopgod.com) Linux operating system.
 
 * * *
 
